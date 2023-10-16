@@ -18,5 +18,10 @@
 
 body {
   color: rgb(var(--foreground-rgb));
+  font-family: 'Lobster', sans-serif;
 }
+
+
+/* フォントをimport */
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Moul&family=Noto+Sans+JP&family=Poppins:wght@300&family=Ubuntu:wght@300&display=swap');
 
